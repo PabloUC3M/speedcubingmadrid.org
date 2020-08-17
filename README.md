@@ -1,4 +1,4 @@
-# `speedcubingmadrid.org`
+# `speedcubingmadrid.org Hola fork`
 
 This repository contains the source code that runs on [speedcubingmadrid.org](http://www.speedcubingmadrid.org).
 
